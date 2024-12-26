@@ -1,0 +1,1 @@
+This repository contains a common SQL error related to the use of aggregate functions like AVG(). The original code attempts to calculate the average salary within the WHERE clause, which is incorrect. The solution demonstrates the correct approach, using a subquery to pre-calculate the average salary.
